@@ -3,6 +3,6 @@ Sample project with Python
 
 # running
 `pipenv install`
-`pipenv run find_meteors.py`
+`pipenv run meteors/find_meteors.py`
 
 
