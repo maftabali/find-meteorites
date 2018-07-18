@@ -2,5 +2,7 @@
 Sample project with Python
 
 # running
-`python find_meteors.py`
+`pipenv install`
+`pipenv run find_meteors.py`
+
 
